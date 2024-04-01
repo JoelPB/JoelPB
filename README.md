@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  Oi
+  Olá, devs! Eu sou Joel
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </div>
 
@@ -67,11 +67,11 @@ Sou Full Stack Developer <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI
 
 ### 🌡️ Minhas estatísticas :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoelPB&theme=dracula&hide_border=true&border_radius=6&locale=pt_BR)](https://git.io/streak-stats)
+![GitHub JoelPB](https://github-readme-streak-stats.herokuapp.com?user=JoelPB&theme=dracula&hide_border=true&border_radius=6&locale=pt_BR)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JoelPB&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![JoelPB GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JoelPB&show_icons=true&theme=dark#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelPB&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![JoelPB Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelPB&layout=pie)
 
 <!--
 **JoelPB/JoelPB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -87,5 +87,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-Fote: https://www.sitepoint.com/github-profile-readme/
+Fotes: https://www.sitepoint.com/github-profile-readme/
+  https://git.io/streak-stats
+  https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only
+  
 -->
